@@ -752,7 +752,7 @@ body {
 }
 
 .modal-content {
-  background: white;
+  background: rgb(20, 20, 90);
   padding: 20px;
   border-radius: 16px;
   box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
@@ -784,12 +784,12 @@ body {
 .form-title {
   font-size: 1.5rem;
   font-weight: 700;
-  color: #1e293b;
+  color: #9198a5;
   margin-bottom: 8px;
 }
 
 .form-subtitle {
-  color: #64748b;
+  color: #6c7480;
   font-size: 0.9rem;
 }
 
@@ -805,7 +805,7 @@ body {
 }
 
 .form-content::-webkit-scrollbar-track {
-  background: #f1f5f9;
+  background: #c2c8cf;
   border-radius: 2px;
 }
 
